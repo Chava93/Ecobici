@@ -56,8 +56,8 @@ import Ecobici.API as EA
 
 
 ```python
-client_secret = 'ohudoi1i06sc8coso8osogco4cckgcwow0ooo0cwgc0okowk8'
-client_id = '1658_5hzaznmxkzs4gcs448gc88kkcgsw00k4socwskoggg08c04800'
+client_secret = "YOUR CLIENT SECRET"
+client_id = "YOUR CLIENT ID"
 ```
 
 
