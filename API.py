@@ -85,7 +85,7 @@ class API:
         '''
         if not self.access_token:
             print('Consultando token')
-            self.get_token()
+            self._get_token()
         url = 'https://pubsbapi.smartbike.com/api/v1/stations/status.json?'
         params = {
             "access_token":self.access_token
